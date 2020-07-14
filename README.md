@@ -1,5 +1,7 @@
 # CoTrRank_Trust_Evaluation
 
+## Click the below video to view the Demo on YouTube.
+
 [![CoTrRank: Trust Evaluation of Users and Tweets](https://i.ytimg.com/vi/eeiMVO4qS1s/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCYSz61oHfOt-fc-K1AIciYZ-nKZA)](https://www.youtube.com/watch?v=eeiMVO4qS1s)
 
 
@@ -79,6 +81,7 @@ for example:
 If you use this data set for research, please cite one of the following papers:
 
 "Peiyao Li,Weiliang Zhao, and Jian Yang. 2018. CoRank: A Coupled Dual Networks Approach to Trust Evaluation on Twitter. In the 19TH International Conference on Web Information Systems Engineering." 
+
 "Peiyao Li,Weiliang Zhao, Jian Yang, and Jia Wu. 2019. CoTrRank: Trust Evaluation of Users and Tweets. In Proceedings of the Twenty-Eighth International Joint Conference on
                Artificial Intelligence, IJCAI-19. PP 6542--6544."
 
