@@ -80,7 +80,7 @@ for example:
 
 ## Ground Truth User Idx
 
-In the paper, we have detailed the method used to derive the ground truth user lists, which is provided in the 'GT_UserIDs.csv' file. 
+In the paper, we have detailed the method used to derive the ground truth user lists, which is provided in the 'GT_UserIDs.csv' file. Each value is the corresponding user idx defined for the Tas user set.
 
 # References
 If you use this data set for research, please cite our paper:
