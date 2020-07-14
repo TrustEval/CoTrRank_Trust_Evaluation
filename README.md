@@ -1,4 +1,4 @@
-# CoTrRank_Trust_Evaluation
+# CoTrRank: Trust Evaluation of Users and Tweets
 
 ## Click the below video to view the Demo on YouTube.
 
@@ -96,6 +96,6 @@ If you use this data set for research, please cite our paper:
 }
 ```
 
-In addition, if you are interested in the topic of Social Network trust, you may want to know our another work ["CoRank A Coupled Dual Networks Approach to Trust Evaluation on Twitter"](https://github.com/TrustEval/Twitter_Tas_dataset)
+In addition, if you are interested in the topic of Social Network trust, you may want to know another work of ours: ["CoRank A Coupled Dual Networks Approach to Trust Evaluation on Twitter"](https://github.com/TrustEval/Twitter_Tas_dataset)
 
 If you have any questions, please do not hesitate to contact me.
