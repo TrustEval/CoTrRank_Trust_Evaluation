@@ -82,7 +82,19 @@ If you use this data set for research, please cite one of the following papers:
 
 "Peiyao Li,Weiliang Zhao, and Jian Yang. 2018. CoRank: A Coupled Dual Networks Approach to Trust Evaluation on Twitter. In the 19TH International Conference on Web Information Systems Engineering." 
 
-"Peiyao Li,Weiliang Zhao, Jian Yang, and Jia Wu. 2019. CoTrRank: Trust Evaluation of Users and Tweets. In Proceedings of the Twenty-Eighth International Joint Conference on
-               Artificial Intelligence, IJCAI-19. PP 6542--6544."
+```
+@inproceedings{ijcai2019-950,
+  title     = {CoTrRank: Trust Evaluation of Users and Tweets},
+  author    = {Li, Peiyao and Zhao, Weiliang and Yang, Jian and Wu, Jia},
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+               Artificial Intelligence, {IJCAI-19}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  pages     = {6542--6544},
+  year      = {2019},
+  month     = {7},
+  doi       = {10.24963/ijcai.2019/950},
+  url       = {https://doi.org/10.24963/ijcai.2019/950},
+}
+```
 
 If you have any questions, please do not hesitate to contact me.
