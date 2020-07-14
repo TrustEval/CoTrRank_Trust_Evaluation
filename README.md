@@ -2,7 +2,7 @@
 
 ## Click the below video to view the Demo on YouTube.
 
-[![CoTrRank: Trust Evaluation of Users and Tweets](https://i.ytimg.com/vi/eeiMVO4qS1s/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCYSz61oHfOt-fc-K1AIciYZ-nKZA)](https://www.youtube.com/watch?v=eeiMVO4qS1s)
+[![CoTrRank: Trust Evaluation of Users and Tweets](https://github.com/TrustEval/CoTrRank_Trust_Evaluation/blob/master/images/Capture.PNG?raw=true)](https://www.youtube.com/watch?v=eeiMVO4qS1s)
 
 
 
