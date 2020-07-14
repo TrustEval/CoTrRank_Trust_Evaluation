@@ -9,9 +9,9 @@
 # Twitter_Tas_dataset
 This is the dataset used for our research project: Trust Evaluation on Twitter. Anyone who are working on data minning, social network analysis, or any related topics can download this dataset for research purposes.
 
-The proposed Co-Rank method and detailed experimental results can be found in our paper: 
+The proposed CoTrRank method and detailed experimental results can be found in our paper: 
 
-## "CoRank A Coupled Dual Networks Approach to Trust Evaluation on Twitter" (WISE 2018).
+## " CoTrRank: Trust Evaluation of Users and Tweets" (IJCAI 2019).
 
 The data set is designed for research purpose only. There are four files storing the Twitter data crawled from Twitter using its official REST API.
 
