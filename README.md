@@ -78,9 +78,8 @@ for example:
 *Note that, due to the request from Twitter, we can not publish the content of Twitter.*
 
 # References
-If you use this data set for research, please cite one of the following papers:
+If you use this data set for research, please cite our paper:
 
-"Peiyao Li,Weiliang Zhao, and Jian Yang. 2018. CoRank: A Coupled Dual Networks Approach to Trust Evaluation on Twitter. In the 19TH International Conference on Web Information Systems Engineering." 
 
 ```
 @inproceedings{ijcai2019-950,
@@ -96,5 +95,7 @@ If you use this data set for research, please cite one of the following papers:
   url       = {https://doi.org/10.24963/ijcai.2019/950},
 }
 ```
+
+In addition, if you are interested in the topic of Social Network trust, you may want to know our another work ["CoRank A Coupled Dual Networks Approach to Trust Evaluation on Twitter"](https://github.com/TrustEval/Twitter_Tas_dataset)
 
 If you have any questions, please do not hesitate to contact me.
