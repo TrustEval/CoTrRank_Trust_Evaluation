@@ -78,6 +78,10 @@ for example:
 
 *Note that, due to the request from Twitter, we can not publish the content of Twitter.*
 
+## Ground Truth User Idx
+
+In the paper, we have detailed the method used to derive the ground truth user lists, which is provided in the 'GT_UserIDs.csv' file. 
+
 # References
 If you use this data set for research, please cite our paper:
 
