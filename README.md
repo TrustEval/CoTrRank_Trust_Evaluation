@@ -4,7 +4,8 @@
 
 [![CoTrRank: Trust Evaluation of Users and Tweets](https://github.com/TrustEval/CoTrRank_Trust_Evaluation/blob/master/images/Capture.PNG?raw=true)](https://www.youtube.com/watch?v=eeiMVO4qS1s)
 
-
+## Results analysis
+![Below image shows the trust ranking calculated by our proposed CoTrRank approach](https://github.com/TrustEval/CoTrRank_Trust_Evaluation/blob/master/images/Capture1.PNG?raw=true)
 
 # Twitter_Tas_dataset
 This is the dataset used for our research project: Trust Evaluation on Twitter. Anyone who are working on data minning, social network analysis, or any related topics can download this dataset for research purposes.
